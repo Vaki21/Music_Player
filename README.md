@@ -1,2 +1,2 @@
 # Music_Player
-School project - Music Player
+School project - Music Player in WPF
